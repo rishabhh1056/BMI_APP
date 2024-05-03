@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorOverWait">#EE2525</color>
+    <color name="colorOverWait2">#BA0404</color>
+    <color name="colorHealthy">#4CAF50</color>
+    <color name="colorUnderWait">#FFEB3B</color>
+    <color name="colorNormal">#EC9478</color>
+</resources>
